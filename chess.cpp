@@ -3,7 +3,7 @@
  *
  * Travis Banken
  *
- * Simple implementation of chess.
+ * Simple implementation of chess, using a form of the MVC design pattern.
  */
 
 #include <SFML/Graphics.hpp>
